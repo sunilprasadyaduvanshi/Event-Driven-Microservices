@@ -1,0 +1,23 @@
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java / Maven build output
+**/target/
+**/build/
+**/bin/
+**/out/
+*.class
+*.log
+
+# Environment / local config
+.env
+.env.*
+local.properties
